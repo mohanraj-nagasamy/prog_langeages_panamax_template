@@ -1,0 +1,10 @@
+---
+name: All Programming Languages
+description: This template is going to have all the programming languages
+keywords: lang
+type: Default
+documentation: This template is going to have all the programming languages
+images:
+- name: java_latest
+  source: java:latest
+  type: Default
